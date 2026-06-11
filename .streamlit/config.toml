@@ -1,6 +1,5 @@
 [server]
 maxUploadSize = 200
-enableXsrfProtection = false
 
 [theme]
 primaryColor = "#6C63FF"
